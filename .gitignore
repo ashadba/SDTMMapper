@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+venv_webapps
+pyvenv.cfg
+../ve_webapps/.idea
+etc
+Lib
+Scripts
+share
